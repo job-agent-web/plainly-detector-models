@@ -1,0 +1,12 @@
+{
+  "slop": {
+    "url": "https://job-agent-web.github.io/plainly-detector-models/slop-q4.onnx",
+    "bytes": 213070460,
+    "sha256": "7c423ca216d6cc3a1be13d69f37e6f263da5bf8a51ac2b23e8de51cad54e5268"
+  },
+  "smollm": {
+    "url": "https://job-agent-web.github.io/plainly-detector-models/smollm-browser.onnx",
+    "bytes": 207406110,
+    "sha256": "1fc9cecce4d1e8b5496a544170939a06c6a33dce80640dd4b590c8855b8447f7"
+  }
+}
