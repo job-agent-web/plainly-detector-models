@@ -2,7 +2,7 @@
 
 Open-source model components used by Plainly. This site distributes only model files and attribution. It collects no user text, credentials or payments and provides no hosted inference service.
 
-Weights are pinned, converted with ONNX Runtime 1.23.2, and checked against original model outputs before release. Weight-only int8 retains float activation precision. This is a conversion parity check, not an accuracy evaluation. Estimates are not proof of authorship.
+Weights are pinned, converted with ONNX Runtime 1.23.2, and checked against original model outputs before release. Uses blockwise int8 weight conversion; output parity is measured rather than assumed. This is a conversion parity check, not an accuracy evaluation. Estimates are not proof of authorship.
 
 - slop: https://huggingface.co/anudit/slop
   - Licence: MIT. See upstream source and accompanying notices.
